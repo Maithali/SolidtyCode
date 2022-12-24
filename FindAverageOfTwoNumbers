@@ -1,0 +1,8 @@
+//SPDX-License-Identifier:MIT
+pragma solidity ^0.8.3;
+
+contract Find{
+function average(uint num1, uint num2) pure public returns(uint){
+return (num1 +num2)/2;
+}
+}
