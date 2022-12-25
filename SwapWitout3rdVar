@@ -1,0 +1,10 @@
+SPDX-License-Identifier:MIT
+pragma solidity ^0.8.3;
+contract Test{
+function swap(int x,int y) public pure returns(int,int){
+x=x+y;
+y=x-y;
+x=x-y;
+return(x,y);
+}
+}
