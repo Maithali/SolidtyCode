@@ -1,0 +1,14 @@
+//SPDX-License-Identifier:MIT
+pragma solidity ^0.8.3;
+contract Test{
+function sunNum(uint n)public pure returns(uint){
+uint sum=0;
+uint m;
+while(n>0){
+m=n%10;
+sum=sum+m;
+n=n/10;
+}
+return sum;
+}
+}
