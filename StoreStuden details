@@ -1,0 +1,23 @@
+
+//SPDX-License-Identifier:GPL-3.0
+pragma solidity >=0.7.0 <0.9.0;
+
+contract Store{
+	struct Student{
+		string name;
+		uint roll;
+		uint age;
+        }
+
+Student[10] details;
+uint index;
+function insert(string calldata _name,uint _roll,uint _age) public{
+  details[index].name=_name;
+  details[index].roll=_roll;
+  details[index].age=_age;
+  index++;
+}
+function returnData() view public returns(Student[10] memory){
+return details;
+}
+}
