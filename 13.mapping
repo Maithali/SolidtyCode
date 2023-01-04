@@ -1,0 +1,14 @@
+
+//SPDX-License-Identifier:GPL-3.0
+pragma solidity >=0.7.0 <0.9.0;
+contract Test{
+mapping(address=>mappong(address=>bool))ownership;
+
+function transferOwernship(address _from,address _to)public {
+ownership[_from][_to]=true;
+}
+function ownershipStatus(address _from,address _to) public view returns(bool){
+return ownership[_from][_to];
+}
+}
+
