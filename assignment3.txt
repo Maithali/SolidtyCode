@@ -1,0 +1,25 @@
+//SPDX-License-Identifier:MIT
+pragma solidity >=0.7.0 <0.9.0;
+
+contract Student{
+ string public name;
+ uint pulic roll_No;
+
+  function setName(string calldata _name) external{
+	name=_name;
+}
+  function setRoll(uint _roll) external{
+   roll_No= _roll;
+}
+}
+
+contract Details{
+Student obj= new Student();
+function setter() public{
+obj.setName("Maithaly");
+obj.setRoll(50);
+}
+function getter() public view returns(string memory, uint){
+return(obj.name(),obj.roll_No());
+}
+}
