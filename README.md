@@ -11,3 +11,5 @@ here increment decrement of number is happening using solidity
 ## Variables and Dataypes
 ![screencapture-remix-ethereum-org-2023-03-16-13_43_47](https://user-images.githubusercontent.com/121287753/225555446-069a857f-8847-4fe9-ad11-4bff377b056b.png)
 
+## Arrays
+![screencapture-remix-ethereum-org-2023-03-16-14_07_06](https://user-images.githubusercontent.com/121287753/225561147-3ef78a10-b305-422d-ab12-31e119b99ebd.png)
