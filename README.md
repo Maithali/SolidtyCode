@@ -13,3 +13,6 @@ here increment decrement of number is happening using solidity
 
 ## Arrays
 ![screencapture-remix-ethereum-org-2023-03-16-14_07_06](https://user-images.githubusercontent.com/121287753/225561147-3ef78a10-b305-422d-ab12-31e119b99ebd.png)
+
+## Mappings
+![screencapture-remix-ethereum-org-2023-03-16-14_35_57](https://user-images.githubusercontent.com/121287753/225568071-347687ea-99d7-4c40-bd7f-231ed0683dab.png)
