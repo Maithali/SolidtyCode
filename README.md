@@ -22,3 +22,6 @@ here increment decrement of number is happening using solidity
 
 ##Hotel Room Booking
 ![screencapture-remix-ethereum-org-2023-03-18-15_17_36](https://user-images.githubusercontent.com/121287753/226098153-640feee1-cdf3-4db5-b58c-4efc4a603b68.png)
+
+## Inheritance and factories
+![screencapture-remix-ethereum-org-2023-03-18-15_42_10](https://user-images.githubusercontent.com/121287753/226099504-3712e043-4326-4157-933c-171eb5b76377.png)
