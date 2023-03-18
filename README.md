@@ -16,3 +16,6 @@ here increment decrement of number is happening using solidity
 
 ## Mappings
 ![screencapture-remix-ethereum-org-2023-03-16-14_35_57](https://user-images.githubusercontent.com/121287753/225568071-347687ea-99d7-4c40-bd7f-231ed0683dab.png)
+
+## Conditionals and Loop
+![screencapture-remix-ethereum-org-2023-03-18-14_15_58](https://user-images.githubusercontent.com/121287753/226095381-915993b4-042c-4d49-9aef-3049f812814e.png)
