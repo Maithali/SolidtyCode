@@ -19,3 +19,6 @@ here increment decrement of number is happening using solidity
 
 ## Conditionals and Loop
 ![screencapture-remix-ethereum-org-2023-03-18-14_15_58](https://user-images.githubusercontent.com/121287753/226095381-915993b4-042c-4d49-9aef-3049f812814e.png)
+
+##Hotel Room Booking
+![screencapture-remix-ethereum-org-2023-03-18-15_17_36](https://user-images.githubusercontent.com/121287753/226098153-640feee1-cdf3-4db5-b58c-4efc4a603b68.png)
