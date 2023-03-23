@@ -16,7 +16,10 @@ here increment decrement of number is happening using solidity
 ![screencapture-remix-ethereum-org-2023-03-23-05_31_07](https://user-images.githubusercontent.com/121287753/227065431-74433414-56b1-4714-8f4d-3fa1c2fe03be.png)
 
 ## Operators
+# Arithematic
 ![Screenshot 2023-03-24 041925](https://user-images.githubusercontent.com/121287753/227381842-1cf78523-0c79-42d5-8985-b7958d5d4caa.png)
+# Relational
+![Screenshot 2023-03-24 043444](https://user-images.githubusercontent.com/121287753/227383844-98134821-3a31-4626-b0a1-318170c4bab0.png)
 
 ## Arrays
 ![screencapture-remix-ethereum-org-2023-03-16-14_07_06](https://user-images.githubusercontent.com/121287753/225561147-3ef78a10-b305-422d-ab12-31e119b99ebd.png)
