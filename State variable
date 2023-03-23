@@ -1,0 +1,16 @@
+//SPDX-License-Identifier:MIT
+pragma solidity ^0.8.3;
+
+contract Types {
+    uint public val = 4;//state variable
+
+    function add() public pure returns(uint){
+        uint val2 =3;//local variable
+        return val2;
+    }
+
+    function global() public view returns(uint){
+        return block.timestamp;//global variable
+    }
+   
+}
