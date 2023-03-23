@@ -12,6 +12,9 @@ here increment decrement of number is happening using solidity
 ![screencapture-remix-ethereum-org-2023-03-21-10_21_15](https://user-images.githubusercontent.com/121287753/226521897-1a01384c-c0da-4960-a990-f14e017a0da0.png)
 ![screencapture-remix-ethereum-org-2023-03-16-13_43_47](https://user-images.githubusercontent.com/121287753/225555446-069a857f-8847-4fe9-ad11-4bff377b056b.png)
 
+## Functions
+![screencapture-remix-ethereum-org-2023-03-23-05_31_07](https://user-images.githubusercontent.com/121287753/227065431-74433414-56b1-4714-8f4d-3fa1c2fe03be.png)
+
 ## Arrays
 ![screencapture-remix-ethereum-org-2023-03-16-14_07_06](https://user-images.githubusercontent.com/121287753/225561147-3ef78a10-b305-422d-ab12-31e119b99ebd.png)
 
