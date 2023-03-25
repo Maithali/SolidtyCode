@@ -29,6 +29,8 @@ here increment decrement of number is happening using solidity
 # Ternary
 ![image](https://user-images.githubusercontent.com/121287753/227681974-6bad472c-29cb-4746-8427-d802b35375cd.png)
 
+## IF
+![Screenshot 2023-03-25 080329](https://user-images.githubusercontent.com/121287753/227682286-eb973626-cf72-475d-b5ef-0cb100321b34.png)
 
 ## Arrays
 ![screencapture-remix-ethereum-org-2023-03-16-14_07_06](https://user-images.githubusercontent.com/121287753/225561147-3ef78a10-b305-422d-ab12-31e119b99ebd.png)
