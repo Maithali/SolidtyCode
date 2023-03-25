@@ -22,8 +22,11 @@ here increment decrement of number is happening using solidity
 ![Screenshot 2023-03-24 043444](https://user-images.githubusercontent.com/121287753/227383844-98134821-3a31-4626-b0a1-318170c4bab0.png)
 # Logical
 ![Screenshot 2023-03-24 044626](https://user-images.githubusercontent.com/121287753/227385299-03314b09-2b65-44f8-8584-948cad21a0ef.png)
-#Bitwise
+# Bitwise
 ![Screenshot 2023-03-24 090358](https://user-images.githubusercontent.com/121287753/227417797-52dbe55a-8ba0-4176-9ffe-5fd15d249982.png)
+# Assignment
+![Screenshot 2023-03-25 074647](https://user-images.githubusercontent.com/121287753/227681624-3515619c-e63b-403f-b9fd-fbfed34de7da.png)
+
 
 ## Arrays
 ![screencapture-remix-ethereum-org-2023-03-16-14_07_06](https://user-images.githubusercontent.com/121287753/225561147-3ef78a10-b305-422d-ab12-31e119b99ebd.png)
