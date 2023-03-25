@@ -26,6 +26,8 @@ here increment decrement of number is happening using solidity
 ![Screenshot 2023-03-24 090358](https://user-images.githubusercontent.com/121287753/227417797-52dbe55a-8ba0-4176-9ffe-5fd15d249982.png)
 # Assignment
 ![Screenshot 2023-03-25 074647](https://user-images.githubusercontent.com/121287753/227681624-3515619c-e63b-403f-b9fd-fbfed34de7da.png)
+# Ternary
+![image](https://user-images.githubusercontent.com/121287753/227681974-6bad472c-29cb-4746-8427-d802b35375cd.png)
 
 
 ## Arrays
