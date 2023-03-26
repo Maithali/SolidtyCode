@@ -39,7 +39,8 @@ here increment decrement of number is happening using solidity
 
 # Loops
 ## While Loop
-![screencapture-remix-ethereum-org-2023-03-26-07_10_36](https://user-images.githubusercontent.com/121287753/227750714-db173c3c-f491-41cd-bcf1-26c5bb0f02a9.png)
+![screencapture-remix-ethereum-org-2023-03-26-07_10_36](https://user-images.githubusercontent.com/121287753/227750803-4507c685-4482-4333-8223-858841630e61.png)
+
 
 
 ## Arrays
