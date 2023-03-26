@@ -34,6 +34,8 @@ here increment decrement of number is happening using solidity
 ![Screenshot 2023-03-25 080329](https://user-images.githubusercontent.com/121287753/227682286-eb973626-cf72-475d-b5ef-0cb100321b34.png)
 ## If else
 ![Screenshot 2023-03-25 081144](https://user-images.githubusercontent.com/121287753/227682673-f44de92a-fdcc-467b-8716-d90e4f29f4fa.png)
+## If else If
+![screencapture-remix-ethereum-org-2023-03-26-06_52_52](https://user-images.githubusercontent.com/121287753/227750199-c5e91e95-06b1-4d1c-bcca-65697d46e968.png)
 
 ## Arrays
 ![screencapture-remix-ethereum-org-2023-03-16-14_07_06](https://user-images.githubusercontent.com/121287753/225561147-3ef78a10-b305-422d-ab12-31e119b99ebd.png)
