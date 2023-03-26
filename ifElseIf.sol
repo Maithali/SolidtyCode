@@ -12,8 +12,10 @@ contract Condition{
         }else if(b==1 ) {
 
         return 1;
-        }else if(a == 10 && b ==15){
+        }else if(a == 10 && b ==5){
             return 2;
+        }else{
+            return 3;
         }
     }
 
