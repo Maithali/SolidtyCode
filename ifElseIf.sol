@@ -9,9 +9,11 @@ contract Condition{
     function check() public view returns(uint){
         if(a==15){
             return 0;
-        }else if(b==15) {
+        }else if(b==1 ) {
 
         return 1;
+        }else if(a == 10 && b ==15){
+            return 2;
         }
     }
 
