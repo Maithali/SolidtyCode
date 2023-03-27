@@ -51,6 +51,9 @@ here increment decrement of number is happening using solidity
 ![Screenshot 2023-03-27 073042](https://user-images.githubusercontent.com/121287753/227823074-2450bf3d-5688-49ea-9866-411e5d11b899.png)
 ## push method
 ![Screenshot 2023-03-27 074058](https://user-images.githubusercontent.com/121287753/227824117-cfa997ff-892e-4e19-8274-e560cdbe5824.png)
+## pop
+![Screenshot 2023-03-27 074924](https://user-images.githubusercontent.com/121287753/227825135-c5e0e98d-ecbd-4a36-b4b0-99809f7c478c.png)
+
 
 
 
