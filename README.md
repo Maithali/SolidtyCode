@@ -49,6 +49,9 @@ here increment decrement of number is happening using solidity
 ![image](https://user-images.githubusercontent.com/121287753/227821991-593702ba-660a-44a1-a976-2fcfd8049021.png)
 ## ArrayLength
 ![Screenshot 2023-03-27 073042](https://user-images.githubusercontent.com/121287753/227823074-2450bf3d-5688-49ea-9866-411e5d11b899.png)
+## push method
+![Screenshot 2023-03-27 074058](https://user-images.githubusercontent.com/121287753/227824117-cfa997ff-892e-4e19-8274-e560cdbe5824.png)
+
 
 
 
