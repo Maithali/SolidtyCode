@@ -45,7 +45,11 @@ here increment decrement of number is happening using solidity
 
 ## Arrays
 ![screencapture-remix-ethereum-org-2023-03-16-14_07_06](https://user-images.githubusercontent.com/121287753/225561147-3ef78a10-b305-422d-ab12-31e119b99ebd.png)
+## get Array and upadte at fixed index
 ![image](https://user-images.githubusercontent.com/121287753/227821991-593702ba-660a-44a1-a976-2fcfd8049021.png)
+## ArrayLength
+![Screenshot 2023-03-27 073042](https://user-images.githubusercontent.com/121287753/227823074-2450bf3d-5688-49ea-9866-411e5d11b899.png)
+
 
 
 ## Mappings
