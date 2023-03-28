@@ -54,6 +54,8 @@ here increment decrement of number is happening using solidity
 ## pop
 ![Screenshot 2023-03-27 074924](https://user-images.githubusercontent.com/121287753/227825135-c5e0e98d-ecbd-4a36-b4b0-99809f7c478c.png)
 
+# Struct
+![Screenshot 2023-03-28 073434](https://user-images.githubusercontent.com/121287753/228108591-1c7af5d9-a933-48ee-a381-7e304b4bbe28.png)
 
 
 
