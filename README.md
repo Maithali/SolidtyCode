@@ -56,6 +56,7 @@ here increment decrement of number is happening using solidity
 
 # Struct
 ![Screenshot 2023-03-28 073434](https://user-images.githubusercontent.com/121287753/228108591-1c7af5d9-a933-48ee-a381-7e304b4bbe28.png)
+![Screenshot 2023-03-28 074513](https://user-images.githubusercontent.com/121287753/228109945-ebe9fbf9-782b-4465-b687-8c3e5a335c67.png)
 
 
 
