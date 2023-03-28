@@ -8,9 +8,14 @@ contract SolStruct{
         uint age;
     }
     student public newStudent;
-
+// getting values
     function getStudent() public {
         newStudent = student("maithaly",25);
-    }
+   }
+   // return data of one element use dot
+   function getelement() public view returns(string memory){
+       return newStudent.name;
+
+   }
 }
 
