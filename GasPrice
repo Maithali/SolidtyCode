@@ -1,0 +1,7 @@
+//gas used when Token contrcat is deployed -710240
+// current dynamic gas price - 66 gwei
+
+/* EtherCost = totalgas * dynamic gas * currrent price
+             = 710240 * 66 * 10^9 * 1,50,981
+             = 7.0773612
+*/
